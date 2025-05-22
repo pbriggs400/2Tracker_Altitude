@@ -7,3 +7,6 @@ See https://www.translatorscafe.com/unit-converter/en-US/calculator/rocket-dual-
 also (PDF) https://www.fai.org/sites/default/files/documents/sc4_vol_sm_space_13.pdf for detailed explanation.
 Sources of error: There are many, starting with the trackers themselves. If you have a larger model rocket you can use an altimeter, but this
 adds weight to the rocket. Extra weight is a penalty when FAI competition is on the line, and altitude is the object for a given rocket motor.
+Model rocketry people are welcome to use.
+Tested on PC (Windows 10), Android.
+Suggestions are welcome.
